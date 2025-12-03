@@ -1,0 +1,12 @@
+com\mycompany\facturapro\database\dbConnection.class
+com\mycompany\facturapro\Users\LegalEntity.class
+com\mycompany\facturapro\GUI\Menu.class
+com\mycompany\facturapro\product\Product.class
+com\mycompany\facturapro\Users\Person.class
+com\mycompany\facturapro\GUI\BillScreen.class
+com\mycompany\facturapro\Bill\Bill.class
+com\mycompany\facturapro\FacturaPro.class
+com\mycompany\facturapro\Users\NaturalPerson.class
+com\mycompany\facturapro\GUI\NewClientScreen.class
+com\mycompany\facturapro\GUI\Login.class
+com\mycompany\facturapro\GUI\ProductScreen.class
